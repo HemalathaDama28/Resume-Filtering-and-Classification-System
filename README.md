@@ -1,2 +1,7 @@
 # Resume-Filtering-and-Classification-System
 Automated Email-Based Resume Filtering and Classification System that retrieves resumes from Gmail/Outlook, extracts text from PDF/DOCX files, identifies candidate skills, classifies resumes into domains, generates structured Excel reports, and organizes resumes into domain-wise folders for efficient recruitment management.
+
+With the growth of online recruitment, organizations receive a large number of resumes through emails and digital platforms. These resumes are usually submitted in unstructured formats such as PDF or Word documents, making manual screening slow and inefficient. Recruiters must spend significant time reading and sorting resumes, which increases effort and delays the hiring process.
+Automated resume processing systems help overcome these challenges by extracting useful information from resume text. Natural Language Processing (NLP) techniques are commonly used to analyze unstructured data and identify key details such as skills, education, and experience.
+
+This work aims to develop an automated resume processing system that filters resumes according to their date, classifies them into respective domains, and provides the result in domain-wise Excel files and folders. The system enables the transformation of unstructured resumes into structured resumes, thus enhancing resume accessibility and enabling efficient recruitment processes 
